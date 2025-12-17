@@ -1,0 +1,8 @@
+camera_node:
+  ros_parameters:
+   publish_rate: 5.0
+
+
+mock_control_publisher:
+  ros_parameters:
+    test_mode: 'agressive'

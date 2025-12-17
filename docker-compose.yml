@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  jazzy_dev:
+    build: .
+    container_name: jazzy_dev
+    network_mode: host
+    volumes:
+      - .:/ros2_ws
+    tty: true
+    stdin_open: true
+    command: bash

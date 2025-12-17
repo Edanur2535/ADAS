@@ -1,3 +1,4 @@
+
 # ROS2 Jazzy – ADAS Perception Project
 
 Bu proje, **ROS2 Jazzy** kullanılarak geliştirilmiş bir **ADAS (Advanced Driver Assistance Systems) algılama (perception)** modülünü içermektedir. Proje Docker ortamında çalışacak şekilde yapılandırılmıştır ve Python tabanlı ROS2 node’larından oluşur.
@@ -142,4 +143,5 @@ ROS2 · Python · ADAS · Perception
 
 ---
 
-> Bu README, Docker + ROS2 Jazzy ortamında çalışan ADAS perception projeleri için referans olacak şekilde hazırlanmıştır.
+> Bu README, Docker + ROS2 Jazzy ortamında çalışan ADAS perception projeleri için referans olacak şekilde hazırlanmıştır.>
+>>>>>>> f149cb04408798d7b0bdac2c9e604ce52b8d22cb
